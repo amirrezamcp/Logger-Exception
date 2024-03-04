@@ -1,0 +1,14 @@
+----------------------------------------------------------------
+Type:Error
+code:2
+massage:Undefined variable $index
+file:*:\*****\******\**********\*******\Logger-Exception\index.php
+line:6
+date: y-m-d h:m:s
+----------------------------------------------------------------
+Type:Exception
+code:Exception exception
+massage:0
+file:*:\*****\******\**********\*******\Logger-Exception\index.php
+line:8
+date: y-m-d h:m:s
